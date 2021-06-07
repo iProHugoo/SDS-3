@@ -1,4 +1,4 @@
-# SDS-3
+# Semana Spring React - SDS 3
 
 - Repositório da Semana Spring React - SDS 3 pela DevSuperior
 
